@@ -1,0 +1,424 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.1.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/EXTRA
+
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q
+|2,0,1650211996,,"q"
+:wq
+|2,0,1650211460,,"wq"
+:r t2
+|2,0,1650205759,,"r t2"
+:r t1
+|2,0,1650205419,,"r t1"
+:recover
+|2,0,1650204284,,"recover"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+?/EXTRA
+|2,1,1650205959,47,"EXTRA"
+?/wc
+|2,1,1650205897,47,"wc"
+?/uptime
+|2,1,1650204854,47,"uptime"
+?/proc.c
+|2,1,1650204401,47,"proc.c"
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""-	CHAR	0
+	-
+|3,1,36,0,1,0,1650206044,"-"
+
+# 파일 마크:
+'0  568  0  ~/xv6-public/proc.c
+|4,48,568,0,1650211996,"~/xv6-public/proc.c"
+'1  548  24  ~/xv6-public/proc.c
+|4,49,548,24,1650211460,"~/xv6-public/proc.c"
+'2  548  24  ~/xv6-public/proc.c
+|4,50,548,24,1650211460,"~/xv6-public/proc.c"
+'3  563  1  ~/xv6-public/proc.c
+|4,51,563,1,1650211417,"~/xv6-public/proc.c"
+'4  563  1  ~/xv6-public/proc.c
+|4,52,563,1,1650211417,"~/xv6-public/proc.c"
+'5  563  1  ~/xv6-public/proc.c
+|4,53,563,1,1650211417,"~/xv6-public/proc.c"
+'6  563  1  ~/xv6-public/proc.c
+|4,54,563,1,1650211417,"~/xv6-public/proc.c"
+'7  562  59  ~/xv6-public/proc.c
+|4,55,562,59,1650211358,"~/xv6-public/proc.c"
+'8  562  59  ~/xv6-public/proc.c
+|4,56,562,59,1650211358,"~/xv6-public/proc.c"
+'9  562  59  ~/xv6-public/proc.c
+|4,57,562,59,1650211358,"~/xv6-public/proc.c"
+
+# 점프목록 (새것이 먼저):
+-'  568  0  ~/xv6-public/proc.c
+|4,39,568,0,1650211996,"~/xv6-public/proc.c"
+-'  548  24  ~/xv6-public/proc.c
+|4,39,548,24,1650211815,"~/xv6-public/proc.c"
+-'  548  24  ~/xv6-public/proc.c
+|4,39,548,24,1650211460,"~/xv6-public/proc.c"
+-'  563  1  ~/xv6-public/proc.c
+|4,39,563,1,1650211444,"~/xv6-public/proc.c"
+-'  563  1  ~/xv6-public/proc.c
+|4,39,563,1,1650211444,"~/xv6-public/proc.c"
+-'  563  1  ~/xv6-public/proc.c
+|4,39,563,1,1650211417,"~/xv6-public/proc.c"
+-'  562  59  ~/xv6-public/proc.c
+|4,39,562,59,1650211374,"~/xv6-public/proc.c"
+-'  562  59  ~/xv6-public/proc.c
+|4,39,562,59,1650211374,"~/xv6-public/proc.c"
+-'  562  59  ~/xv6-public/proc.c
+|4,39,562,59,1650211374,"~/xv6-public/proc.c"
+-'  562  59  ~/xv6-public/proc.c
+|4,39,562,59,1650211358,"~/xv6-public/proc.c"
+-'  548  23  ~/xv6-public/proc.c
+|4,39,548,23,1650210531,"~/xv6-public/proc.c"
+-'  548  23  ~/xv6-public/proc.c
+|4,39,548,23,1650210531,"~/xv6-public/proc.c"
+-'  546  23  ~/xv6-public/proc.c
+|4,39,546,23,1650209873,"~/xv6-public/proc.c"
+-'  546  23  ~/xv6-public/proc.c
+|4,39,546,23,1650209873,"~/xv6-public/proc.c"
+-'  546  23  ~/xv6-public/proc.c
+|4,39,546,23,1650209873,"~/xv6-public/proc.c"
+-'  546  23  ~/xv6-public/proc.c
+|4,39,546,23,1650209873,"~/xv6-public/proc.c"
+-'  546  31  ~/xv6-public/proc.c
+|4,39,546,31,1650209846,"~/xv6-public/proc.c"
+-'  565  21  ~/xv6-public/proc.c
+|4,39,565,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209829,"~/xv6-public/proc.c"
+-'  565  21  ~/xv6-public/proc.c
+|4,39,565,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209829,"~/xv6-public/proc.c"
+-'  565  21  ~/xv6-public/proc.c
+|4,39,565,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209829,"~/xv6-public/proc.c"
+-'  565  21  ~/xv6-public/proc.c
+|4,39,565,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209829,"~/xv6-public/proc.c"
+-'  555  21  ~/xv6-public/proc.c
+|4,39,555,21,1650209789,"~/xv6-public/proc.c"
+-'  558  49  ~/xv6-public/proc.c
+|4,39,558,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  558  49  ~/xv6-public/proc.c
+|4,39,558,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  558  49  ~/xv6-public/proc.c
+|4,39,558,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  558  49  ~/xv6-public/proc.c
+|4,39,558,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  553  49  ~/xv6-public/proc.c
+|4,39,553,49,1650209554,"~/xv6-public/proc.c"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+-'  253  19  ~/xv6-public/Makefile
+|4,39,253,19,1650209501,"~/xv6-public/Makefile"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/xv6-public/proc.c
+	*	1650211995	0
+	"	568	0
+	^	548	25
+	.	548	24
+	+	535	0
+	+	539	1
+	+	566	9
+	+	540	18
+	+	546	55
+	+	546	0
+	+	543	5
+	+	546	60
+	+	540	28
+	+	546	51
+	+	546	14
+	+	540	15
+	+	542	0
+	+	545	54
+	+	546	22
+	+	555	14
+	+	554	10
+	+	556	50
+	+	563	0
+	+	565	21
+	+	540	0
+	+	542	0
+	+	543	0
+	+	545	0
+	+	549	0
+	+	548	0
+	+	546	0
+	+	553	1
+	+	554	2
+	+	555	1
+	+	556	2
+	+	557	1
+	+	558	2
+	+	549	8
+	+	553	26
+	+	554	49
+	+	556	48
+	+	558	49
+	+	554	34
+	+	556	33
+	+	558	34
+	+	555	31
+	+	557	23
+	+	548	23
+	+	559	32
+	+	562	54
+	+	562	9
+	+	560	9
+	+	562	52
+	+	541	16
+	+	548	0
+	+	551	0
+	+	550	0
+	+	549	14
+	+	550	1
+	+	553	0
+	+	554	0
+	+	555	1
+	+	556	2
+	+	557	0
+	+	558	1
+	+	559	0
+	+	560	1
+	+	561	0
+	+	562	1
+	+	551	33
+	+	552	27
+	+	554	61
+	+	556	60
+	+	558	60
+	+	563	3
+	+	564	0
+	+	563	0
+	+	560	23
+	+	558	21
+	+	560	60
+	+	562	59
+	+	549	1
+	+	564	0
+	+	548	24
+
+> ~/xv6-public/Makefile
+	*	1650209500	0
+	"	253	19
+	^	253	57
+	.	253	57
+	+	183	4
+	+	253	57
+
+> ~/xv6-public/ps.c
+	*	1650209470	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	11	0
+
+> ~/xv6-public/syscall.c
+	*	1650206625	0
+	"	130	20
+	^	130	21
+	.	130	20
+	+	106	16
+	+	130	20
+
+> ~/xv6-public/usys.S
+	*	1650204712	0
+	"	32	10
+	^	32	11
+	.	32	10
+	+	32	0
+	+	32	10
+
+> ~/xv6-public/sysproc.c
+	*	1650204652	0
+	"	97	0
+	^	97	1
+	.	97	0
+	+	96	13
+	+	97	0
+
+> ~/xv6-public/user.h
+	*	1650204528	0
+	"	26	12
+	^	26	13
+	.	26	12
+	+	26	12
+
+> ~/xv6-public/defs.h
+	*	1650204450	0
+	"	123	13
+	^	123	14
+	.	123	13
+	+	123	13
+
+> ~/xv6-public/syscall.h
+	*	1650204347	0
+	"	23	20
+	^	23	21
+	.	23	20
+	+	23	0
+	+	23	20
+
+> ~/xv6-public/syscall.o
+	*	1650203698	0
+	"	1	0
